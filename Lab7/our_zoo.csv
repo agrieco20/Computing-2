@@ -1,0 +1,53 @@
+id,name,cage_num,enclosure_num,weight,weightDate,size,feedHour,food_type
+345,African Elephant,12,5,8000,2020,L,13,grass
+348,African Lion,14,5,1200,2020,L,13,meat
+351,Aldabra Toroise,45,3,200,2020,M,13,grass
+354,American Flamingo,34,2,8,2020,S,13,insect
+354,American Flamingo,71,2,8,2020,S,13,insect
+245,American Flamingo,72,2,8,2020,S,13,insect
+246,American Flamingo,73,2,8,2020,S,13,insect
+247,American Flamingo,74,2,8,2020,S,13,insect
+248,American Flamingo,75,2,8,2020,S,13,insect
+357,Black Handed Spider Monkey,15,3,40.5,2020,M,13,fruit
+358,Black Handed Spider Monkey,79,3,38.5,2020,M,13,fruit
+360,Bobcat,17,4,80,2020,M,13,meat
+263,Dwarf Nigerian Goat,80,6,61,2020,M,20,grain
+264,Dwarf Nigerian Goat,81,6,60.7,2020,M,20,grain
+265,Dwarf Nigerian Goat,82,6,58,2020,M,20,grain
+266,Dwarf Nigerian Goat,83,6,69,2020,M,20,grain
+267,Dwarf Nigerian Goat,84,6,48,2020,M,20,grain
+366,Grant's Zebra,20,5,400,2020,L,20,grass
+369,Lesser Madagascar hedgehog,21,3,1.5,2020,S,20,insect
+372,Southern three-banded armadillo,22,5,40,2020,S,20,insect
+375,Hoffmann’s two-toed sloth,23,3,60.6,2020,M,20,fruit
+378,Giant anteater,25,5,224,2020,L,5,insect
+381,Crowned lemur,27,3,9,2021,S,5,fruit
+384,Ring-tailed lemur,28,3,8.09,2021,S,5,fruit
+387,Cotton-top tamarin,30,3,4,2021,S,5,fruit
+390,Common squirrel monkey,32,3,5.56,2021,S,6,fruit
+393,Black howler,36,3,40,2021,M,6,fruit
+396,De Brazza’s monkey,37,3,45.67,2021,M,6,fruit
+399,Lar gibbon,38,3,67,2021,L,6,fruit
+402,Sumatran orangutan,40,3,200.8,2021,L,6,fruit
+405,Prevost’s squirrel,46,7,1.5,2021,S,8,grain
+408,Woodchuck,48,7,30.9,2021,M,8,grain
+411,Cape porcupine,47,7,30.6,2021,M,8,grain
+414,Sand cat,50,4,30,2021,M,8,grass
+417,Black-footed cat,52,4,35.8,2021,M,11,meat
+420,Wild cat,53,4,20.9,2021,S,11,meat
+423,Serval,56,4,35.5,2021,S,11,meat
+426,Pallas’s cat,58,4,40,2021,S,11,meat
+429,Jaguar,60,4,200,2021,L,11,meat
+432,Coyote,61,7,145,2021,L,12,meat
+435,Grey fox,63,7,40,2021,M,12,meat
+438,Red fox,62,7,35,2019,M,12,meat
+441,North American black bear,64,6,350.67,2019,L,12,meat
+444,Red panda,65,6,325,2019,L,12,grass
+447,Plains zebra,66,6,456,2019,L,12,grass
+450,White rhinoceros,67,5,1545,2019,L,12,grass
+453,West African Giraffe,68,5,1324,2019,L,10,grain
+454,West African Giraffe,91,5,1200,2019,L,10,grain
+455,West African Giraffe,92,5,1350,2019,L,10,grain
+460,West African Giraffe,93,5,1400,2019,L,10,grain
+456,Angora Goat,69,5,60.78,2021,M,10,grain
+459,Romney Sheep,70,5,120.5,2021,M,10,grain
